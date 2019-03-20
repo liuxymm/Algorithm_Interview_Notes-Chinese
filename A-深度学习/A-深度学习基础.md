@@ -392,3 +392,5 @@ Index
     - 截断高斯分布（Truncated normal distribution）
 
 - Keras 提供的参数初始化方法：Keras/[Initializers](https://keras.io/initializers/)
+
+- 初始化方法基本上分成三大类：均匀分布、正态分布、相同的固定常数
